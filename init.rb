@@ -1,1 +1,1 @@
-require 'campaign_monitor'
+# require 'campaign_monitor'
